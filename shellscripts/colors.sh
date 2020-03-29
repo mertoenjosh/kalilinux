@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 cyan='\e[0;36m'
-#green='\e[0;34m'
+green='\e[0;34m'
 oke_green='\033[92m'
 white='\e[1;37m'
 light_green='\e[1;32m'
